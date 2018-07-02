@@ -1,0 +1,3 @@
+[submodule "DataLineage-Viewer"]
+	path = DataLineage-Viewer
+	url = ../DataLineage-Viewer.git
